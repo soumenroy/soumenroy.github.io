@@ -1,0 +1,60 @@
+---
+---
+<div class="row">
+  <div class="col-sm-2 abbr">
+    {% if entry.abbr %}
+      <abbr class="badge">{{ entry.abbr }}</abbr>
+    {% endif %}
+  </div>
+
+  <div id="{{entry.key}}" class="col-sm-8">
+    <div class="title">{{ entry.title }}</div>
+    <div class="author">
+      {% assign authors = entry.author_array %}
+      {% for author in authors %}
+        {% assign is_self = false %}
+        {% if author.last == "Roy" and author.first contains "Soumen" %}
+          {% assign is_self = true %}
+        {% endif %}
+
+        {% if is_self %}
+          <span class="author-self">{{ author.first }} {{ author.last }}</span>
+        {% else %}
+          {{ author.first }} {{ author.last }}
+        {% endif %}
+
+        {% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </div>
+
+    <div class="periodical">
+      <em>
+        {% if entry.journal %}{{ entry.journal }}{% endif %}
+        {% if entry.volume %} {{ entry.volume }}{% endif %}
+        {% if entry.number %}({{ entry.number }}){% endif %}
+        {% if entry.pages %}, {{ entry.pages }}{% endif %}
+        {% if entry.year %} ({{ entry.year }}){% endif %}
+      </em>
+    </div>
+
+    <div class="links">
+      {% if entry.arxiv %}
+        <a href="https://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+      {% endif %}
+
+      {% if entry.bibtex_show %}
+        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+      {% endif %}
+
+      {% if entry.html %}
+        <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">Journal</a>
+      {% endif %}
+    </div>
+
+    {% if entry.bibtex_show %}
+      <div class="bibtex hidden">
+<pre>{{ entry.bibtex }}</pre>
+      </div>
+    {% endif %}
+  </div>
+</div>

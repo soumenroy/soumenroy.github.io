@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>UCLouvain | Royal Observatory of Belgium </a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral researcher at UCLouvain, working on gravitational-wave astronomy and an active member of the LIGO–Virgo–KAGRA Collaboration. My research focuses on tests of general relativity, astrophysical environments surrounding compact binaries, waveform modeling, and Bayesian inference. I develop data-analysis frameworks, algorithms, and statistical methods to probe subtle physical effects in gravitational-wave observations with current and future observatories.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

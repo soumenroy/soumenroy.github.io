@@ -1,11 +1,8 @@
 cv:
   name: Soumen Roy
-  label: Postdoctoral Researcher, Gravitational-Wave Astronomy
+  location: Louvain-la-Neuve, Belgium
   email: soumen.roy@uclouvain.be
   website: https://soumenroy.github.io
-  address:
-    city: Louvain-la-Neuve
-    countryCode: BE
 
   sections:
     Experience:
@@ -13,7 +10,7 @@ cv:
         position: Postdoctoral Researcher
         location: Louvain-la-Neuve, Belgium
         start_date: 2024
-        end_date: Present
+        end_date: present
         highlights:
           - Active member of the LIGO–Virgo–KAGRA Collaboration.
 
@@ -27,7 +24,7 @@ cv:
       - institution: Indian Institute of Technology Gandhinagar
         location: India
         area: Physics
-        studyType: Ph.D.
+        degree: Ph.D.
         start_date: 2014
         end_date: 2021
         highlights:
@@ -37,7 +34,7 @@ cv:
       - institution: The University of Calcutta
         location: India
         area: Physics (Astrophysics & Astroparticle Physics)
-        studyType: M.Sc.
+        degree: M.Sc.
         start_date: 2011
         end_date: 2013
         highlights:
@@ -47,7 +44,7 @@ cv:
       - institution: Vidyasagar University
         location: India
         area: Physics
-        studyType: B.Sc. (Honours)
+        degree: B.Sc. (Honours)
         start_date: 2008
         end_date: 2011
 

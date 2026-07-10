@@ -13,9 +13,13 @@ PRL:
   url: https://journals.aps.org/prl/
 PRD:
   color: "#7b1fa2"
+  url: https://journals.aps.org/prd/
 JPCS:
   color: "#00897b"
+  url: https://iopscience.iop.org/journal/1742-6596
 EPJC:
   color: "#e65100"
+  url: https://link.springer.com/journal/10052
 arXiv:
   color: "#b31b1b"
+  url: https://arxiv.org/

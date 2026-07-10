@@ -210,33 +210,35 @@ html[data-theme-setting="light"] {
 
 /* CV page fixes */
 .cv {
-  /* remove stray bullet dots from entry lists */
   ul.list-group {
     list-style: none;
     padding-left: 0;
   }
 
-  /* let long place names wrap instead of overlapping the next column */
-  .location {
-    overflow-wrap: anywhere;
-    padding-right: 0.15rem;
+  /* date column + content side by side */
+  .list-group-item > .row {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-start;
   }
 
-  /* slim down the date/location column */
   .row > [class*="col-sm-2"] {
-    flex: 0 0 50px;
-    max-width: 50px;
+    flex: 0 0 150px;
+    max-width: 150px;
   }
 
-  /* let the text column use the freed-up space */
   .row > [class*="col-sm-8"],
   .row > [class*="col-sm-10"] {
-    flex: 1 1 auto;
+    flex: 1 1 0;
+    min-width: 0;
     max-width: none;
-    padding-left: 0;
+    padding-left: 0.75rem;
   }
 
-  /* reduce indent of title/company/detail lines */
+  .location {
+    overflow-wrap: anywhere;
+  }
+
   .ml-md-4 {
     margin-left: 0.25rem !important;
   }
@@ -244,5 +246,17 @@ html[data-theme-setting="light"] {
   .date-column {
     width: auto;
     transform: none;
+  }
+
+  /* stack again on narrow screens */
+  @media (max-width: 575px) {
+    .list-group-item > .row {
+      flex-wrap: wrap;
+    }
+
+    .row > [class*="col-sm-2"] {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
   }
 }

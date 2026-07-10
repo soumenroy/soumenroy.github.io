@@ -207,3 +207,18 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
+/* CV page fixes */
+.cv {
+  /* remove stray bullet dots from entry lists */
+  ul.list-group {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  /* let long place names wrap instead of overlapping the next column */
+  .location {
+    overflow-wrap: anywhere;
+    padding-right: 0.5rem;
+  }
+}

@@ -56,7 +56,6 @@ cv:
       - label: Computing environments
         details: Linux, macOS, Windows; high-throughput and high-performance computing for large-scale gravitational-wave analyses
 
-    
     Teaching:
       - label: Spring 2017
         details: "Graduate Teaching Fellow, IIT Gandhinagar: Statistical Mechanics"
@@ -64,7 +63,7 @@ cv:
         details: "Graduate Teaching Fellow, IIT Gandhinagar: Computational Physics"
       - label: Spring 2019
         details: "Graduate Teaching Fellow, IIT Gandhinagar: Introduction to Computing"
-        
+
     Professional Memberships:
       - label: Since 2020
         details: Member of Einstein Telescope Observational Science Board

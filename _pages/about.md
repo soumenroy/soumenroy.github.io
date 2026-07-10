@@ -28,4 +28,3 @@ latest_posts:
 ---
 
 I am a postdoctoral researcher at UCLouvain, working on gravitational-wave astronomy and an active member of the LIGO–Virgo–KAGRA Collaboration. My research focuses on tests of general relativity, astrophysical environments surrounding compact binaries, waveform modeling, and Bayesian inference. I develop data-analysis frameworks, algorithms, and statistical methods to probe subtle physical effects in gravitational-wave observations with current and future observatories.
-

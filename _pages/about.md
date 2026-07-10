@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>UCLouvain | Royal Observatory of Belgium </a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral researcher, <a href="https://www.uclouvain.be/fr/instituts-recherche/irmp/cp3">CP3, UCLouvain</a> <br>Guest researcher, <a href="https://www.astro.oma.be/en/">Royal Observatory of Belgium</a>
+
 
 profile:
   align: right

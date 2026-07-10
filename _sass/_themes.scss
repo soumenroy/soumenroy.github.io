@@ -221,4 +221,28 @@ html[data-theme-setting="light"] {
     overflow-wrap: anywhere;
     padding-right: 0.15rem;
   }
+
+  /* slim down the date/location column */
+  .row > [class*="col-sm-2"] {
+    flex: 0 0 150px;
+    max-width: 150px;
+  }
+
+  /* let the text column use the freed-up space */
+  .row > [class*="col-sm-8"],
+  .row > [class*="col-sm-10"] {
+    flex: 1 1 auto;
+    max-width: none;
+    padding-left: 0;
+  }
+
+  /* reduce indent of title/company/detail lines */
+  .ml-md-4 {
+    margin-left: 0.25rem !important;
+  }
+
+  .date-column {
+    width: auto;
+    transform: none;
+  }
 }

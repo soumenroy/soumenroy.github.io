@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+PRL:
+  color: "#d32f2f"
+  url: https://journals.aps.org/prl/
+PRD:
+  color: "#7b1fa2"
+JPCS:
+  color: "#00897b"
+EPJC:
+  color: "#e65100"
+arXiv:
+  color: "#b31b1b"

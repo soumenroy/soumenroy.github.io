@@ -224,8 +224,8 @@ html[data-theme-setting="light"] {
 
   /* slim down the date/location column */
   .row > [class*="col-sm-2"] {
-    flex: 0 0 150px;
-    max-width: 150px;
+    flex: 0 0 50px;
+    max-width: 50px;
   }
 
   /* let the text column use the freed-up space */

@@ -6,15 +6,13 @@ cv:
 
   sections:
     Experience:
-      - company: Centre for Cosmology, Particle Physics and Phenomenology (CP3), UCLouvain
+      - institution: Centre for Cosmology, Particle Physics and Phenomenology (CP3), UCLouvain
         position: Postdoctoral Researcher
         location: Louvain-la-Neuve, Belgium
         start_date: 2024
         end_date: present
-        highlights:
-          - Active member of the LIGO–Virgo–KAGRA Collaboration.
 
-      - company: Nikhef / Utrecht University
+      - institution: Nikhef / Utrecht University
         position: Postdoctoral Researcher
         location: The Netherlands
         start_date: 2020

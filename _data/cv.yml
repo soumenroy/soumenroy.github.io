@@ -6,20 +6,32 @@ cv:
 
   sections:
     Experience:
-      - institution: Centre for Cosmology, Particle Physics and Phenomenology (CP3), UCLouvain
+      - company: "🏛️ Centre for Cosmology, Particle Physics and Phenomenology (CP3), UCLouvain"
         position: Postdoctoral Researcher
         location: Louvain-la-Neuve, Belgium
         start_date: 2024
         end_date: present
 
-      - institution: Nikhef / Utrecht University
+      - company: "🏛️ Royal Observatory of Belgium"
+        position: Postdoctoral Researcher
+        location: Louvain-la-Neuve, Belgium
+        start_date: 2024
+        end_date: present
+
+      - company: "🏛️ Nikhef / Utrecht University"
         position: Postdoctoral Researcher
         location: The Netherlands
         start_date: 2020
         end_date: 2024
+        
+      - company: "🏛️ Utrecht University"
+        position: Postdoctoral Researcher
+        location: The Netherlands
+        start_date: 2021
+        end_date: 2024
 
     Education:
-      - institution: Indian Institute of Technology Gandhinagar
+      - institution: "🏛️ Indian Institute of Technology Gandhinagar"
         location: India
         area: Physics
         degree: Ph.D.
@@ -29,7 +41,7 @@ cv:
           - "Thesis: Aspects of gravitational wave data analysis from compact binary coalescences"
           - "Supervisor: Prof. Anand S. Sengupta"
 
-      - institution: The University of Calcutta
+      - institution: "🏛️ The University of Calcutta"
         location: India
         area: Physics (Astrophysics & Astroparticle Physics)
         degree: M.Sc.
@@ -39,7 +51,7 @@ cv:
           - "Thesis: An Introduction to Fluid Dynamics and Numerical Solution of Shock Tube Problem by Using Roe Solver"
           - "Supervisor: Prof. Sanjay Kumar Ghosh"
 
-      - institution: Vidyasagar University
+      - institution: "🏛️ Vidyasagar University"
         location: India
         area: Physics
         degree: B.Sc. (Honours)

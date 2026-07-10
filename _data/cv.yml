@@ -56,28 +56,7 @@ cv:
       - label: Computing environments
         details: Linux, macOS, Windows; high-throughput and high-performance computing for large-scale gravitational-wave analyses
 
-    Mentoring:
-      - label: "2025–Present · Jef Heynen (CP3, UCLouvain), graduate"
-        details: Leveraging the null stream to detect strongly lensed gravitational wave signals (with Justin Janquart)
-      - label: "2025–Present · Ioannis Liodis (DESY), graduate"
-        details: Impact of astrophysical environment surrounding compact binaries on cosmology inference (with Samaya Nissanke)
-      - label: "2022–2024 · Giada Caneva Santoro (IFAE, UAB), graduate"
-        details: Measuring the astrophysical environment surrounding compact binaries with second-generation and future detectors (with Mario Martinez)
-      - label: "2022–2025 · Abhishek Sharma (IIT Gandhinagar), graduate"
-        details: Designing a search framework for detecting signals beyond general relativity; developing a rapid parameter estimation framework (with Anand S. Sengupta)
-      - label: "2021–2022 · Anna Puecher (Nikhef / Utrecht University), graduate"
-        details: Testing general relativity using higher-order modes of gravitational waves from binary black holes (with Chris Van Den Broeck)
-      - label: "2025 · Ioannis Liodis (GRAPPA, University of Amsterdam), master's"
-        details: Impact of astrophysical environment surrounding compact binaries on cosmology inference (with Samaya Nissanke)
-      - label: "2022–2023 · Bram van de Zande (Utrecht University), master's"
-        details: Black holes, or black hole mimickers (superspinars)? Gravitational waves as a means to tell the difference (with Chris Van Den Broeck)
-      - label: "2021 · Marien Hofstee (Utrecht University), bachelor's"
-        details: Higher harmonics in gravitational wave signals from binary black hole mergers (with Chris Van Den Broeck & Fabian Ziltener)
-      - label: "2019–2021 · Harsh Narola (IIT Gandhinagar), master's"
-        details: "Beyond general relativity: designing a template-based search for exotic gravitational wave signals (with Anand S. Sengupta)"
-      - label: "2019 · Mohini Umesh Ramwala (IIT Gandhinagar), master's"
-        details: GR and non-GR template banks for LIGO data analysis (with Anand S. Sengupta)
-
+    
     Teaching:
       - label: Spring 2017
         details: "Graduate Teaching Fellow, IIT Gandhinagar: Statistical Mechanics"
@@ -85,26 +64,7 @@ cv:
         details: "Graduate Teaching Fellow, IIT Gandhinagar: Computational Physics"
       - label: Spring 2019
         details: "Graduate Teaching Fellow, IIT Gandhinagar: Introduction to Computing"
-
-    Selected Talks and Presentations:
-      - bullet: "*Line-of-sight acceleration in compact binaries: the role of higher harmonics and eccentricity* — XVI Einstein Telescope Symposium, Aachen, Germany (June 2026)"
-      - bullet: "*Scalar fields around black hole binaries in LIGO-Virgo-KAGRA* — New opportunities to detect gravitational waves and dark matter in orbital dynamics, Benasque Science Center, Spain (December 2025)"
-      - bullet: "*Fast likelihood evaluation of eccentric–precessing binaries using relative binning* — 4th Einstein Telescope Annual Meeting, Opatija, Croatia (December 2025)"
-      - bullet: "*Testing modified gravity with the eccentric neutron star–black hole merger GW200105* — Belgian-Dutch Gravitational Wave Meeting, Radboud University Nijmegen, Netherlands (2025)"
-      - bullet: "*Testing modified gravity with the eccentric neutron star–black hole merger GW200105* — Joint Theoretical Gravitational Wave Seminars, Leuven, Belgium (2025)"
-      - bullet: "*Parametrized test of general relativity with gravitational waves: including higher harmonics and precession* — Belgian Physical Society general scientific meeting, Louvain-la-Neuve, Belgium (2025)"
-      - bullet: "*Probing gravitational waves using GNSS constellations* — Tabletop Scale Cosmology, online conference (2025)"
-      - bullet: "*Probing gravitational waves using GNSS constellations* — 59th Rencontres de Moriond on Gravitation, La Thuile, Italy (2025)"
-      - bullet: "*Can compact binary coalescences in environments pose as in vacuum?* — biweekly BelGrav meeting, online (December 2024)"
-      - bullet: "*Update on TIGER analysis with GW230814* — LIGO-Virgo-KAGRA Collaboration Meeting, Barcelona, Spain (September 2024)"
-      - bullet: "*A non-orthogonal wavelet transformation for reconstructing gravitational wave signals* — APS April Meeting, New York (April 2022)"
-      - bullet: "*Detection of non-quadrupole modes of gravitational waves from multiple inspiralling black holes* — 9th International Conference on Gravitation and Cosmology, IISER Mohali, India (December 2019)"
-      - bullet: "*Effectual template banks for upcoming compact binary searches in Advanced-LIGO Virgo data* — 30th meeting of the Indian Association for General Relativity and Gravitation, BITS Pilani, Hyderabad, India (January 2019)"
-      - bullet: "*Designing an effectual template placement algorithm for searches of gravitational wave from compact binary coalescences* — Exploring the Universe: Near Earth Space Science to Extra-Galactic Astronomy, SNBNCBS Kolkata, India (November 2018)"
-      - bullet: "*Designing an effectual template placement algorithm for gravitational wave searches* — Summer School: Gravitational Waves 2018, École de Physique des Houches, France (July 2018)"
-      - bullet: "*Hybrid geometric-random template placement algorithm for gravitational wave searches from compact binary coalescences* — 29th meeting of the Indian Association for General Relativity and Gravitation, IIT Guwahati, India (May 2017)"
-      - bullet: "*A hybrid geometric-random template placement algorithm for gravitational wave searches from compact binary coalescences* — Time Series Analysis for Synoptic Surveys and Gravitational Wave Astronomy, ICTS Bangalore, India (March 2017)"
-
+        
     Professional Memberships:
       - label: Since 2020
         details: Member of Einstein Telescope Observational Science Board

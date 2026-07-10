@@ -1,9 +1,4 @@
 cv:
-  name: Soumen Roy
-  location: Louvain-la-Neuve, Belgium
-  email: soumen.roy@uclouvain.be
-  website: https://soumenroy.github.io
-
   sections:
     Experience:
       - company: "🏛️ CP3, IRMP, UCLouvain"
@@ -13,7 +8,7 @@ cv:
         end_date: present
 
       - company: "🏛️ Royal Observatory of Belgium"
-        position: Postdoctoral Researcher
+        position: Guest Researcher
         location: Belgium
         start_date: 2024
         end_date: present

@@ -55,11 +55,11 @@ cv:
 
     Computational Expertise:
       - label: Programming and workflow
-        area: Python, C/C++, HTCondor, bash, LaTeX; experience with MATLAB, Mathematica, Gnuplot, and FORTRAN
+        details: Python, C/C++, HTCondor, bash, LaTeX; experience with MATLAB, Mathematica, Gnuplot, and FORTRAN
       - label: Gravitational-wave software
-        area: LALSuite, PyCBC, Bilby, BayesWave; Bayesian inference and waveform-model implementation
+        details: LALSuite, PyCBC, Bilby, BayesWave; Bayesian inference and waveform-model implementation
       - label: Computing environments
-        area: Linux, macOS, Windows; high-throughput and high-performance computing for large-scale gravitational-wave analyses
+        details: Linux, macOS, Windows; high-throughput and high-performance computing for large-scale gravitational-wave analyses
 
     Teaching:
       - label: Spring 2017

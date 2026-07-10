@@ -1,80 +1,30 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Searching for gravity beyond Einstein's general relativity
+description: Developing new ways to find gravitational-wave signals that may not follow Einstein's theory.
 img:
-importance: 3
-category: fun
+importance: 1
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Einstein’s theory of general relativity has successfully described gravity for over a century, from the motion of planets to the merger of black holes. Yet we know it cannot be the complete picture: it is incompatible with quantum mechanics and cannot fully explain some of the biggest mysteries in our Universe, including dark matter and dark energy. Gravitational waves provide a unique opportunity to test gravity under conditions that cannot be recreated anywhere else.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This research focuses on developing new methods to search for gravitational-wave signals predicted by theories beyond general relativity. Most existing searches assume Einstein’s theory is exactly correct, making them highly efficient for detecting signals that closely follow its predictions. However, if gravity behaves differently in the strong-field regime, those searches may become less sensitive or even overlook potential signals. This work aims to overcome this limitation by building search pipelines that remain sensitive to a broad range of physically motivated alternatives.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+This research asks:
+> **Can we design searches that is sensitive even when gravity behaves differently from Einstein's prediction?**
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## What we have learned
 
-{% raw %}
+In one study, we showed that a search containing possible departures from general relativity could be substantially more sensitive to non-standard signals than a conventional search based only on Einstein's theory. We also applied the method to a portion of publicly available LIGO data.  
+[Read the paper on arXiv](https://arxiv.org/abs/2207.10410)
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+In later work, we studied signals from merging neutron stars. We found that standard searches could perform poorly for some non-standard signals and developed a hybrid method for constructing a dedicated search bank that recovers them more effectively.  
+[Read the paper on arXiv](https://arxiv.org/abs/2311.03274)
 
-{% endraw %}
+
+With the next generation of gravitational-wave observatories, including the Einstein Telescope and Cosmic Explorer, these techniques will enable tests of gravity with unprecedented precision. Whether they uncover new physics or further strengthen Einstein’s theory, they will help answer one of the most fundamental questions in modern physics:
+

@@ -4,7 +4,7 @@ title: Searching for gravity beyond Einstein's general relativity
 description: Developing new ways to find gravitational-wave signals that may not follow Einstein's theory.
 img:
 importance: 1
-category: research
+category: [research]
 ---
 
 Einstein’s theory of general relativity has successfully described gravity for over a century, from the motion of planets to the merger of black holes. Yet we know it cannot be the complete picture: it is incompatible with quantum mechanics and cannot fully explain some of the biggest mysteries in our Universe, including dark matter and dark energy. Gravitational waves provide a unique opportunity to test gravity under conditions that cannot be recreated anywhere else.

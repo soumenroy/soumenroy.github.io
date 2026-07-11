@@ -18,6 +18,7 @@ This research asks:
 ## What we have learned
 
 Existing gravitational-wave searches use waveform models based on Einstein’s theory of general relativity. These searches are highly successful, but they are most sensitive to signals that closely follow Einstein’s predictions. In this work, we developed one of the first template-based search frameworks designed specifically for gravitational-wave signals beyond general relativity by introducing controlled deviations directly into the search templates. We showed that this approach can improve the sensitivity to certain non-standard signals by approximately a factor of two while keeping the fixed false-alarm rate, and we validated the framework by reanalysing data from LIGO’s first observing run.
+
 [Read the paper on arXiv](https://arxiv.org/abs/2207.10410)
 
 
@@ -26,13 +27,15 @@ Existing gravitational-wave searches use waveform models based on Einstein’s t
       loading="eager"
       path="assets/img/publication_preview/fitting_factor_non_gr_signals.png"
       class="img-fluid rounded z-depth-1"
-      caption="Comparison between the conventional GR template bank and the beyond-GR bank."
+      caption="Fitting factor of GR template bank for detecting beyond-GR signals."
   %}
 </div>
 
 Existing gravitational-wave searches for binary neutron-star mergers use template banks based on general relativity. In this work, we showed that such banks can be highly ineffective for recovering signals that contain departures from Einstein’s predictions. We therefore developed a new hybrid method that combines an efficient geometric placement with a random placement to construct a dedicated beyond-general-relativity template bank. The resulting bank is about fifteen times larger than the conventional bank, but provides effective coverage of the targeted non-standard signals and offers a practical framework for future searches for exotic gravitational-wave signatures.
-<div style="clear: both;"></div>
 
+The figure shows the effectiveness of GR waveforms for detecting beyond-GR signals from BNS systems. The fitting factor serves as a metric to quantify how closely a signal matches the nearest point within the GR search space. Conventionally, *a fitting factor value above 0.97 signifies satisfactory detection performance*. A solid line shows the performance of GR waveforms against specific deviations at specific PN coefficients, and the legend indicates the percentage of beyond-GR signals recovered with $$\mathcal{FF} < 0.97$$. The deviation parameters were drawn from random distributions within the bounds measured from the GW170817 signal. Computed using Advanced LIGO's sensitivity during the second observing run.
+
+<div style="clear: both;"></div>
 [Read the paper on arXiv](https://arxiv.org/abs/2311.03274)
 
 With the next generation of gravitational-wave observatories, including the Einstein Telescope and Cosmic Explorer, these techniques will enable tests of gravity with unprecedented precision. Whether they uncover new physics or further strengthen Einstein’s theory, they will help answer one of the most fundamental questions in modern physics:

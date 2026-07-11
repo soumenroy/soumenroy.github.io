@@ -21,14 +21,18 @@ Existing gravitational-wave searches use waveform models based on Einstein’s t
 [Read the paper on arXiv](https://arxiv.org/abs/2207.10410)
 
 
-{% include figure.liquid
-    loading="eager"
-    path="assets/img/publication_preview/fitting_factor_non_gr_signals.png"
-    class="img-fluid rounded z-depth-1 float-right ml-3"
-    width="45%"
-    caption="Comparison between the conventional GR template bank and the beyond-GR bank."
-%}
+<div style="float: right; width: 45%; margin: 0 0 1rem 1.5rem;">
+  {% include figure.liquid
+      loading="eager"
+      path="assets/img/publication_preview/fitting_factor_non_gr_signals.png"
+      class="img-fluid rounded z-depth-1"
+      caption="Comparison between the conventional GR template bank and the beyond-GR bank."
+  %}
+</div>
+
 Existing gravitational-wave searches for binary neutron-star mergers use template banks based on general relativity. In this work, we showed that such banks can be highly ineffective for recovering signals that contain departures from Einstein’s predictions. We therefore developed a new hybrid method that combines an efficient geometric placement with a random placement to construct a dedicated beyond-general-relativity template bank. The resulting bank is about fifteen times larger than the conventional bank, but provides effective coverage of the targeted non-standard signals and offers a practical framework for future searches for exotic gravitational-wave signatures.
+<div style="clear: both;"></div>
+
 [Read the paper on arXiv](https://arxiv.org/abs/2311.03274)
 
 With the next generation of gravitational-wave observatories, including the Einstein Telescope and Cosmic Explorer, these techniques will enable tests of gravity with unprecedented precision. Whether they uncover new physics or further strengthen Einstein’s theory, they will help answer one of the most fundamental questions in modern physics:

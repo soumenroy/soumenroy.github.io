@@ -21,7 +21,6 @@ Existing gravitational-wave searches use waveform models based on Einstein’s t
 
 [Read the paper on arXiv](https://arxiv.org/abs/2207.10410)
 
-
 <div style="float: right; width: 45%; margin: 0 0 1rem 1.5rem;">
   {% include figure.liquid
       loading="eager"

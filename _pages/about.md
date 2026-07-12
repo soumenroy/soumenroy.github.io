@@ -28,3 +28,11 @@ latest_posts:
 ---
 
 I work on gravitational-wave astronomy at UCLouvain and am an active member of the LIGO–Virgo–KAGRA Collaboration. I develop data-analysis frameworks, algorithms, and statistical methods to probe subtle physical effects in gravitational-wave observations with current and future observatories. My research focuses on tests of general relativity, astrophysical environments surrounding compact binaries, waveform modeling, and Bayesian inference.
+
+Before joining UCLouvain, I was a postdoctoral researcher at Nikhef in the Netherlands and a guest researcher at Utrecht University. I received my PhD in Physics from the Indian Institute of Technology Gandhinagar in 2021 and have been a member of the LIGO–Virgo–KAGRA Collaboration since 2017.
+
+My current research explores how gravitational waves can reveal both the astrophysical environments of compact binaries and the fundamental nature of gravity. I investigate how gas, dark matter, and nearby massive companions influence gravitational-wave signals, while also developing precision tests of general relativity and search methods for signatures predicted by alternative theories of gravity.
+
+
+
+

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral researcher, [CP3, UCLouvain](https://www.uclouvain.be/fr/instituts-recherche/irmp/cp3) <br>Guest researcher, <a [Royal Observatory of Belgium](https://www.astro.oma.be/en/)
+subtitle: Postdoctoral researcher, [CP3, UCLouvain](https://www.uclouvain.be/fr/instituts-recherche/irmp/cp3) <br> Guest researcher, [Royal Observatory of Belgium](https://www.astro.oma.be/en/)
 
 profile:
   align: right

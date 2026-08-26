@@ -1,24 +1,24 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-26'
 papers:
   xm_GABAAAAAJ:-95Q15plzcUC:
     citations: 0
     title: "Population Properties of Compact Objects from the Second LIGO\u2013Virgo Gravitational-Wave Transient Catalog"
     year: '2021'
   xm_GABAAAAAJ:-_dYPAW6P2MC:
-    citations: 54
+    citations: 53
     title: Search of the early O3 LIGO data for continuous gravitational waves from the Cassiopeia A and Vela Jr. supernova remnants
     year: '2022'
   xm_GABAAAAAJ:0KyAp5RtaNEC:
-    citations: 204
+    citations: 206
     title: 'Diving below the spin-down limit: Constraints on gravitational waves from the energetic young pulsar PSR J0537-6910'
     year: '2021'
   xm_GABAAAAAJ:2KloaMYe4IUC:
-    citations: 116
+    citations: 118
     title: "Constraints on dark photon dark matter using data from LIGO\u2019s and Virgo\u2019s third observing run"
     year: '2022'
   xm_GABAAAAAJ:2tRrZ1ZAMYUC:
-    citations: 10
+    citations: 13
     title: Scalar fields around black hole binaries in LIGO-Virgo-KAGRA
     year: '2026'
   xm_GABAAAAAJ:35r97b3x0nAC:
@@ -26,11 +26,11 @@ papers:
     title: Unraveling information about supranuclear-dense matter from the complete binary neutron star coalescence process using future gravitational-wave detector networks
     year: '2023'
   xm_GABAAAAAJ:3htObqc8RwsC:
-    citations: 9
+    citations: 10
     title: Testing modified gravity with the eccentric neutron star-black hole merger GW200105
     year: '2026'
   xm_GABAAAAAJ:4MWp96NkSFoC:
-    citations: 61
+    citations: 62
     title: "Search for gravitational waves associated with gamma-ray bursts detected by Fermi and Swift during the LIGO\u2013Virgo run O3a"
     year: '2021'
   xm_GABAAAAAJ:4fGpz3EwCPoC:
@@ -38,15 +38,15 @@ papers:
     title: 'Advanced Virgo plus: future perspectives'
     year: '2023'
   xm_GABAAAAAJ:7T2F9Uy0os0C:
-    citations: 1075
+    citations: 1089
     title: Tests of general relativity with binary black holes from the second LIGO-Virgo gravitational-wave transient catalog
     year: '2021'
   xm_GABAAAAAJ:8d8msizDQcsC:
-    citations: 1995
+    citations: 2025
     title: "GW190425: Observation of a Compact Binary Coalescence with Total Mass \u223C 3.4 M\u2299"
     year: '2020'
   xm_GABAAAAAJ:9Nmd_mFXekcC:
-    citations: 57
+    citations: 59
     title: "Search for gravitational waves associated with fast radio bursts detected by CHIME/FRB during the LIGO\u2013Virgo observing run O3a"
     year: '2023'
   xm_GABAAAAAJ:9c2xU6iGI7YC:
@@ -54,11 +54,11 @@ papers:
     title: All-sky search for continuous gravitational waves from isolated neutron stars in the early O3 LIGO data
     year: '2021'
   xm_GABAAAAAJ:9pM33mqn1YgC:
-    citations: 46
+    citations: 48
     title: Model-based cross-correlation search for gravitational waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3 data
     year: '2022'
   xm_GABAAAAAJ:BUYA1_V_uYcC:
-    citations: 52
+    citations: 54
     title: Search for gravitational-wave transients associated with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third observing run
     year: '2024'
   xm_GABAAAAAJ:DJbcl8HfkQkC:
@@ -66,11 +66,11 @@ papers:
     title: Probing gravitational waves using GNSS constellations
     year: '2025'
   xm_GABAAAAAJ:Dip1O2bNi0gC:
-    citations: 14
+    citations: 15
     title: 'Beyond general relativity: Designing a template-based search for exotic gravitational wave signals'
     year: '2023'
   xm_GABAAAAAJ:EYYDruWGBe4C:
-    citations: 164
+    citations: 165
     title: All-sky search for short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo run
     year: '2021'
   xm_GABAAAAAJ:EkHepimYqZsC:
@@ -82,7 +82,7 @@ papers:
     title: 'GUEST: Gravitational Universe Exploration with Satellite Tracking. A passive satellite laser-ranging mission for the dark gravitational Universe'
     year: '2026'
   xm_GABAAAAAJ:FAceZFleit8C:
-    citations: 102
+    citations: 106
     title: 'Virgo detector characterization and data quality: results from the O3 run'
     year: '2023'
   xm_GABAAAAAJ:FPJr55Dyh1AC:
@@ -90,7 +90,7 @@ papers:
     title: 'arXiv: Virgo Detector Characterization and Data Quality during the O3 run'
     year: '2022'
   xm_GABAAAAAJ:Fu2w8maKXqMC:
-    citations: 3386
+    citations: 3414
     title: 'GWTC-2: Compact binary coalescences observed by LIGO and Virgo during the first half of the third observing run'
     year: '2021'
   xm_GABAAAAAJ:GtLg2Ama23sC:
@@ -98,11 +98,11 @@ papers:
     title: Search for intermediate-mass black hole binaries in the third observing run of Advanced LIGO and Advanced Virgo
     year: '2022'
   xm_GABAAAAAJ:HIFyuExEbWQC:
-    citations: 19
+    citations: 22
     title: 'Improved parametrized test of general relativity using the IMRPhenomX waveform family: Including higher harmonics and precession'
     year: '2026'
   xm_GABAAAAAJ:HeT0ZceujKMC:
-    citations: 14
+    citations: 15
     title: 'Confronting general relativity with principal component analysis: Simulations and results from GWTC-3 events'
     year: '2025'
   xm_GABAAAAAJ:HtS1dXgVpQUC:
@@ -114,7 +114,7 @@ papers:
     title: Nonorthogonal wavelet transformation for reconstructing gravitational wave signals
     year: '2022'
   xm_GABAAAAAJ:JQOojiI6XY0C:
-    citations: 83
+    citations: 85
     title: "Search for gravitational waves associated with gamma-ray bursts detected by Fermi and Swift during the LIGO\u2013Virgo run O3b"
     year: '2022'
   xm_GABAAAAAJ:KNjnJ3z-R6IC:
@@ -126,11 +126,11 @@ papers:
     title: Unveiling the spectrum of inspiralling binary black holes
     year: '2021'
   xm_GABAAAAAJ:KbBQZpvPDL4C:
-    citations: 7
+    citations: 8
     title: 'Edible packaging: mechanical properties and testing methods'
     year: '2022'
   xm_GABAAAAAJ:L7CI7m0gUJcC:
-    citations: 126
+    citations: 130
     title: All-sky search for gravitational wave emission from scalar boson clouds around spinning black holes in LIGO O3 data
     year: '2022'
   xm_GABAAAAAJ:LI9QrySNdTsC:
@@ -142,11 +142,11 @@ papers:
     title: The Advanced Virgo+ status
     year: '2023'
   xm_GABAAAAAJ:ML0RJ9NH7IQC:
-    citations: 680
+    citations: 687
     title: Open data from the first and second observing runs of Advanced LIGO and Advanced Virgo
     year: '2021'
   xm_GABAAAAAJ:NJ774b8OgUMC:
-    citations: 32
+    citations: 33
     title: A joint Fermi-GBM and LIGO/Virgo analysis of compact binary mergers from the first and second gravitational-wave observing runs
     year: '2020'
   xm_GABAAAAAJ:NyGDZy8z5eUC:
@@ -158,7 +158,7 @@ papers:
     title: Probing missing physics from inspiralling compact binaries via time-frequency tracks
     year: '2026'
   xm_GABAAAAAJ:OcBU2YAGkTUC:
-    citations: 35
+    citations: 36
     title: Ultralight vector dark matter search using data from the KAGRA O3GK run
     year: '2024'
   xm_GABAAAAAJ:P7Ujq4OLJYoC:
@@ -186,31 +186,31 @@ papers:
     title: Aspects of gravitational wave astronomy with coalescing compact binary sources
     year: '2021'
   xm_GABAAAAAJ:TIZ-Mc8IlK0C:
-    citations: 59
+    citations: 62
     title: "All-sky, all-frequency directional search for persistent gravitational waves from Advanced LIGO\u2019s and Advanced Virgo\u2019s first three observing runs"
     year: '2022'
   xm_GABAAAAAJ:UHK10RUVsp4C:
-    citations: 105
+    citations: 106
     title: "Search for subsolar-mass black hole binaries in the second part of Advanced LIGO\u2019s and Advanced Virgo\u2019s third observing run"
     year: '2023'
   xm_GABAAAAAJ:URolC5Kub84C:
-    citations: 1212
+    citations: 1222
     title: "Population properties of compact objects from the second LIGO\u2013Virgo gravitational-wave transient catalog"
     year: '2021'
   xm_GABAAAAAJ:Ug5p-4gJ2f0C:
-    citations: 68
+    citations: 70
     title: Low-latency gravitational wave alert products and their performance at the time of the fourth LIGO-Virgo-KAGRA observing run
     year: '2024'
   xm_GABAAAAAJ:VaXvl8Fpj5cC:
-    citations: 863
+    citations: 870
     title: 'GW190412: Observation of a binary-black-hole coalescence with asymmetric masses'
     year: '2020'
   xm_GABAAAAAJ:W5xh706n7nkC:
-    citations: 100
+    citations: 102
     title: Search for continuous gravitational wave emission from the Milky Way center in O3 LIGO-Virgo data
     year: '2022'
   xm_GABAAAAAJ:XD-gHx7UXLsC:
-    citations: 158
+    citations: 159
     title: "Search for anisotropic gravitational-wave backgrounds using data from Advanced LIGO and Advanced Virgo\u2019s first three observing runs"
     year: '2021'
   xm_GABAAAAAJ:XoXfffV-tXoC:
@@ -218,19 +218,19 @@ papers:
     title: First constraints on binary black hole environments with LIGO-Virgo observations
     year: '2023'
   xm_GABAAAAAJ:XvxMoLDsR5gC:
-    citations: 14
+    citations: 15
     title: What is the nature of GW230529? An exploration of the gravitational lensing hypothesis
     year: '2025'
   xm_GABAAAAAJ:YohjEiUPhakC:
-    citations: 88
+    citations: 92
     title: Calibration of advanced Virgo and reconstruction of the detector strain h(t) during the observing run O3
     year: '2022'
   xm_GABAAAAAJ:Z5m8FVwuT1cC:
-    citations: 2244
+    citations: 2266
     title: 'GW190814: Gravitational waves from the coalescence of a 23 solar mass black hole with a 2.6 solar mass compact object'
     year: '2020'
   xm_GABAAAAAJ:ZfRJV9d4-WMC:
-    citations: 1625
+    citations: 1650
     title: Population of merging compact binaries inferred using gravitational waves through GWTC-3
     year: '2023'
   xm_GABAAAAAJ:_FM0Bhl9EiAC:
@@ -242,7 +242,7 @@ papers:
     title: 'GWTC-2.1: Deep extended catalog of compact binary coalescences observed by LIGO and Virgo during the first half of the third observing run'
     year: '2024'
   xm_GABAAAAAJ:_Re3VWB3Y0AC:
-    citations: 668
+    citations: 686
     title: Tests of general relativity with GWTC-3
     year: '2025'
   xm_GABAAAAAJ:_Ybze24A_UAC:
@@ -250,11 +250,11 @@ papers:
     title: Effectual template banks for upcoming compact binary searches in Advanced-LIGO and Virgo data
     year: '2019'
   xm_GABAAAAAJ:_axFR9aDTf0C:
-    citations: 408
+    citations: 416
     title: Open data from the third observing run of LIGO, Virgo, KAGRA, and GEO
     year: '2023'
   xm_GABAAAAAJ:a9-T7VOCCH8C:
-    citations: 8
+    citations: 9
     title: bilby tgr
     year: '2024'
   xm_GABAAAAAJ:anf4URPfarAC:
@@ -266,7 +266,7 @@ papers:
     title: All-sky search for continuous gravitational waves from isolated neutron stars in the early O3 LIGO data
     year: '2021'
   xm_GABAAAAAJ:dBIO0h50nwkC:
-    citations: 27
+    citations: 28
     title: Compact binary coalescences in dense gaseous environments can pose as ones in vacuum
     year: '2025'
   xm_GABAAAAAJ:dQ2og3OwTAUC:
@@ -274,11 +274,11 @@ papers:
     title: Gravitational-wave constraints on the equatorial ellipticity of millisecond pulsars
     year: '2020'
   xm_GABAAAAAJ:evX43VCCuoAC:
-    citations: 644
+    citations: 651
     title: "Upper limits on the isotropic gravitational-wave background from Advanced LIGO and Advanced Virgo\u2019s third observing run"
     year: '2021'
   xm_GABAAAAAJ:fFSKOagxvKUC:
-    citations: 112
+    citations: 116
     title: 'Ultrasonication of mayonnaise formulated with xanthan and guar gums: Rheological modeling, effects on optical properties and emulsion stability'
     year: '2021'
   xm_GABAAAAAJ:fbc8zXXH2BUC:
@@ -286,39 +286,39 @@ papers:
     title: "Inhibition of Ribonucleic Acid Polymerase by 5-Hydroxyuridine 5\u2019-Triphosphate"
     year: Unknown Year
   xm_GABAAAAAJ:g3aElNc5_aQC:
-    citations: 237
+    citations: 238
     title: "Search for lensing signatures in the gravitational-wave observations from the first half of LIGO\u2013Virgo\u2019s third observing run"
     year: '2021'
   xm_GABAAAAAJ:gsN89kCJA0AC:
-    citations: 952
+    citations: 964
     title: 'GWTC-2.1: Deep extended catalog of compact binary coalescences observed by LIGO and Virgo during the first half of the third observing run'
     year: '2024'
   xm_GABAAAAAJ:hCrLmN-GePgC:
-    citations: 40
+    citations: 42
     title: 'Tests of general relativity with GW230529: A neutron star merging with a lower mass-gap compact object'
     year: '2026'
   xm_GABAAAAAJ:ipzZ9siozwsC:
-    citations: 3334
+    citations: 3379
     title: 'GWTC-3: Compact binary coalescences observed by LIGO and Virgo during the second part of the third observing run'
     year: '2023'
   xm_GABAAAAAJ:j8SEvjWlNXcC:
-    citations: 96
+    citations: 98
     title: Searches for continuous gravitational waves from young supernova remnants in the early third observing run of Advanced LIGO and Virgo
     year: '2021'
   xm_GABAAAAAJ:kh2fBNsKQNwC:
-    citations: 73
+    citations: 75
     title: Frequency-dependent squeezed vacuum source for the Advanced Virgo gravitational-wave detector
     year: '2023'
   xm_GABAAAAAJ:kuK5TVdYjLIC:
-    citations: 77
+    citations: 79
     title: "Constraints from LIGO O3 Data on Gravitational-wave Emission Due to R-modes in the Glitching Pulsar PSR J0537\u20136910"
     year: '2021'
   xm_GABAAAAAJ:kz9GbA2Ns4gC:
-    citations: 70
+    citations: 72
     title: First constraints on compact binary environments from LIGO-Virgo data
     year: '2024'
   xm_GABAAAAAJ:kzcrU_BdoSEC:
-    citations: 797
+    citations: 803
     title: "Properties and Astrophysical Implications of the 150 M\u2299 Binary Black Hole Merger GW190521"
     year: '2020'
   xm_GABAAAAAJ:mKu_rENv82IC:
@@ -326,7 +326,7 @@ papers:
     title: Search For Dark Matter And Unparticles In Events With AZ Boson And Missing Transverse Momentum In Proton-proton Collisions At Root S= 13 Tev
     year: '2017'
   xm_GABAAAAAJ:nrtMV_XWKgEC:
-    citations: 53
+    citations: 55
     title: Search for gravitational waves from Scorpius X-1 with a hidden Markov model in O3 LIGO data
     year: '2022'
   xm_GABAAAAAJ:p__nRnzSRKYC:
@@ -338,7 +338,7 @@ papers:
     title: A joint fermi-GBM and swift-BAT analysis of gravitational-wave candidates from the third gravitational-wave observing run
     year: '2024'
   xm_GABAAAAAJ:rmuvC79q63oC:
-    citations: 117
+    citations: 118
     title: Searches for gravitational waves from known pulsars at two harmonics in the second and third LIGO-Virgo observing runs
     year: '2022'
   xm_GABAAAAAJ:t7zJ5fGR-2UC:
@@ -346,7 +346,7 @@ papers:
     title: Geometric-stochastic template banks for gravitational wave searches from compact binaries in advanced-LIGO data
     year: '2018'
   xm_GABAAAAAJ:tYavs44e6CUC:
-    citations: 1127
+    citations: 1135
     title: "Observation of gravitational waves from two neutron star\u2013black hole coalescences"
     year: '2021'
   xm_GABAAAAAJ:tuHXwOkdijsC:
@@ -354,7 +354,7 @@ papers:
     title: Hybrid geometric-random template-placement algorithm for gravitational wave searches from compact binary coalescences
     year: '2017'
   xm_GABAAAAAJ:tzM49s52ZIMC:
-    citations: 1700
+    citations: 1711
     title: 'GW190521: A Binary Black Hole Merger with a Total Mass of '
     year: '2020'
   xm_GABAAAAAJ:u-coK7KVo8oC:
@@ -362,11 +362,11 @@ papers:
     title: Constraints on the cosmic expansion history from GWTC-3
     year: '2023'
   xm_GABAAAAAJ:uJ-U7cs_P_0C:
-    citations: 92
+    citations: 93
     title: "Search for subsolar-mass binaries in the first half of advanced LIGO\u2019s and advanced Virgo\u2019s third observing run"
     year: '2022'
   xm_GABAAAAAJ:uLbwQdceFCQC:
-    citations: 198
+    citations: 204
     title: All-sky search for continuous gravitational waves from isolated neutron stars using Advanced LIGO and Advanced Virgo O3 data
     year: '2022'
   xm_GABAAAAAJ:uWiczbcajpAC:
@@ -374,7 +374,7 @@ papers:
     title: First joint observation by the underground gravitational-wave detector KAGRA with GEO 600
     year: '2022'
   xm_GABAAAAAJ:uc_IGeMz5qoC:
-    citations: 86
+    citations: 88
     title: Search for continuous gravitational waves from 20 accreting millisecond x-ray pulsars in O3 LIGO data
     year: '2022'
   xm_GABAAAAAJ:vDijr-p_gm4C:
@@ -395,17 +395,17 @@ papers:
     year: '2022'
   xm_GABAAAAAJ:yMeIxYmEMEAC:
     citations: 1
-    title: Rapid parameter estimation with the full symphony of compact binary mergers using meshfree approximation
-    year: '2025'
+    title: Rapid parameter estimation with the full symphony of compact binary mergers using a meshfree approximation
+    year: '2026'
   xm_GABAAAAAJ:yqoGN6RLRZoC:
     citations: 0
     title: The first joint observation by KAGRA with GEO 600
     year: '2023'
   xm_GABAAAAAJ:zLWjf1WUPmwC:
-    citations: 16
+    citations: 17
     title: A joint Fermi-GBM and Swift-BAT analysis of gravitational-wave candidates from the third gravitational-wave observing run
     year: '2024'
   xm_GABAAAAAJ:z_wVstp3MssC:
-    citations: 121
+    citations: 123
     title: Narrowband searches for continuous and long-duration transient gravitational waves from known pulsars in the LIGO-Virgo third observing run
     year: '2022'
